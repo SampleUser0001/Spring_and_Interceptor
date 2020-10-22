@@ -1,5 +1,4 @@
 # Spring and Interceptor
-
 Spring Boot で Intercepterを使用する。
 
 ## 起動方法
